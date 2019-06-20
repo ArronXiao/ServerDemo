@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.demo.dao.WebSiteDao" >
+    <resultMap id="BaseResultMap" type="com.example.demo.entity.WebSiteInfo" >
+        <id column="id" property="id"  />
+        <result column="url" property="url" />
+        <result column="theme" property="theme"  />
+        <result column="title" property="title" />
+    </resultMap>
+    <sql id="Base_Column_List" >
+        url, theme, title
+    </sql>
+    <select id="getAllWebSiteInfo" resultMap="BaseResultMap" >
+        select
+        <include refid="Base_Column_List" />
+        from website
+    </select>
+</mapper>

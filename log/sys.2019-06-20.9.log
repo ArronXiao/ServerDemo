@@ -1,0 +1,6 @@
+2019-06-20 13:47:30,747 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 13:47:30,756 DEBUG (WebSiteServiceImpl.java:22)- getAllWebSiteInfo
+2019-06-20 13:47:30,757 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select url, theme, title from website 
+2019-06-20 13:47:30,757 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2019-06-20 13:47:30,759 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 19
+2019-06-20 13:47:30,759 DEBUG (WebSiteInfoController.java:29)- webSiteInfos: [com.example.demo.entity.WebSiteInfo@683d5f92, com.example.demo.entity.WebSiteInfo@2d3fccf1, com.example.demo.entity.WebSiteInfo@66169f90, com.example.demo.entity.WebSiteInfo@1cd8210e, com.example.demo.entity.WebSiteInfo@1e1b2cc8, com.example.demo.entity.WebSiteInfo@4d1033be, com.example.demo.entity.WebSiteInfo@1fa8cf93, com.example.demo.entity.WebSiteInfo@42a54d39, com.example.demo.entity.WebSiteInfo@51f44c9, com.example.demo.entity.WebSiteInfo@495e0a17, com.example.demo.entity.WebSiteInfo@10d390f8, com.example.demo.entity.WebSiteInfo@78f7cb5e, com.example.demo.entity.WebSiteInfo@731f185, com.example.demo.entity.WebSiteInfo@3e065dc6, com.example.demo.entity.WebSiteInfo@325e4eae, com.example.demo.entity.WebSiteInfo@7435ce80, com.example.demo.entity.WebSiteInfo@7c80a45a, com.example.demo.entity.WebSiteInfo@70e42e61, com.example.demo.entity.WebSiteInfo@308f25ed]

@@ -1,0 +1,10 @@
+2019-06-20 12:27:54,501 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.302 seconds (JVM running for 2.768)
+2019-06-20 12:28:04,314 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 12:28:04,314 DEBUG (WebSiteServiceImpl.java:22)- getAllWebSiteInfo
+2019-06-20 12:29:53,155 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on SF00883564C with PID 25392 (G:\idea\demo\target\classes started by 01377123 in G:\idea\demo)
+2019-06-20 12:29:53,157 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-20 12:29:53,158 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-20 12:29:55,003 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.244 seconds (JVM running for 2.696)
+2019-06-20 12:30:09,862 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 12:30:09,862 DEBUG (WebSiteServiceImpl.java:22)- getAllWebSiteInfo
+2019-06-20 12:30:10,035 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select id, url, theme, title from website 

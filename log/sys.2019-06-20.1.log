@@ -1,0 +1,11 @@
+2019-06-20 11:25:42,921 DEBUG (WelcomController.java:17)- /body/data hello
+2019-06-20 11:25:43,322 DEBUG (WelcomController.java:17)- /body/data hello
+2019-06-20 11:25:55,909 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 11:42:11,499 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on SF00883564C with PID 27000 (G:\idea\demo\target\classes started by 01377123 in G:\idea\demo)
+2019-06-20 11:42:11,501 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-20 11:42:11,502 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-20 11:42:13,367 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.292 seconds (JVM running for 2.735)
+2019-06-20 11:42:22,200 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 12:19:58,318 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on SF00883564C with PID 28084 (G:\idea\demo\target\classes started by 01377123 in G:\idea\demo)
+2019-06-20 12:19:58,320 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-20 12:19:58,321 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default

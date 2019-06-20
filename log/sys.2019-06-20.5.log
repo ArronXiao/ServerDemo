@@ -1,0 +1,10 @@
+2019-06-20 12:30:10,058 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2019-06-20 12:30:51,075 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on SF00883564C with PID 28064 (G:\idea\demo\target\classes started by 01377123 in G:\idea\demo)
+2019-06-20 12:30:51,078 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-20 12:30:51,079 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-20 12:30:53,022 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.436 seconds (JVM running for 2.915)
+2019-06-20 12:31:06,306 DEBUG (WebSiteInfoController.java:27)- /website/infos
+2019-06-20 12:31:06,306 DEBUG (WebSiteServiceImpl.java:22)- getAllWebSiteInfo
+2019-06-20 12:31:06,463 DEBUG (BaseJdbcLogger.java:145)- ==>  Preparing: select url, theme, title from website 
+2019-06-20 12:31:06,480 DEBUG (BaseJdbcLogger.java:145)- ==> Parameters: 
+2019-06-20 12:31:06,504 DEBUG (BaseJdbcLogger.java:145)- <==      Total: 19

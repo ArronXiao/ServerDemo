@@ -1,0 +1,6 @@
+2019-06-19 15:31:09,952 INFO (StartupInfoLogger.java:50)- Starting DemoApplication on SF00883564C with PID 16240 (G:\idea\demo\target\classes started by 01377123 in G:\idea\demo)
+2019-06-19 15:31:09,955 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-19 15:31:09,956 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-19 15:31:11,650 INFO (StartupInfoLogger.java:59)- Started DemoApplication in 2.102 seconds (JVM running for 2.579)
+2019-06-19 15:31:23,831 DEBUG (WelcomController.java:17)- /body/data hello
+2019-06-19 16:05:22,229 DEBUG (WelcomController.java:17)- /body/data hello
